@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" href="img/diya.png" type="image/x-icon" />
 <link rel="stylesheet" href="css/bootstrap.min.css">
+<title>Anytime Developer Assignment</title>
 </head>
 <body>
     <div class="container">

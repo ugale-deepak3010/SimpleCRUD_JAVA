@@ -6,7 +6,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Courtyard Shelter</title>
+<title>Anytime Developer Assignment</title>
 <link rel="shortcut icon" href="img/diya.png" type="image/x-icon" />
 <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
