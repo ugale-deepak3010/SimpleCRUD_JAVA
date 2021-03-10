@@ -22,6 +22,10 @@
     <li class="nav-item">
     <a class="nav-link" href="./student_list.jsp">Delete Data</a>
   </li>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link" href="./logout.jsp">Logout</a>
+  </li>
 </ul>
 
 <center>
